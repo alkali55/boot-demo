@@ -1,0 +1,5 @@
+services:
+  my-spring:
+    build: .
+    ports:
+      - 8082:8080
