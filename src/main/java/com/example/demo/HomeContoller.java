@@ -8,6 +8,6 @@ public class HomeContoller {
 
     @GetMapping("/")
     public String home() {
-        return "Hello, Compose";
+        return "Hello, Actions";
     }
 }
